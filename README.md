@@ -1,2 +1,2 @@
 # AML_labs
-Labs for the course Advanced Machine Learning followed at EURECOM
+Labs of the "Advanced Machine Learning" course followed at EURECOM
